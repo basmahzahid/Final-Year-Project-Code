@@ -1,1 +1,6 @@
+There are two folders. One is labelled as Dashboard and the other as Dashboard_DecompositionTree
+
+The former consists of the intiial dashboard showing a descriptive model of both target variables.
+The latter folder shows the optimal model found in the SAS Enterprise Miner folder (Decision Tree) modelled using
+PowerBI. 
 
