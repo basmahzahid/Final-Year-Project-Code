@@ -1,0 +1,11 @@
+- Create Folder 'FYP' in Files(Home)
+- Import fatal-police-shootings-data into SAS Studio
+- Run the file and create an import version in the libray
+- Add tasks and run the tasks
+- file will be changed according to the tasks
+- export 'IMPORT' file from library into original 'FYP' folder and download file into desktop
+- that is new file
+
+- delete missing values from race column (as they are irrelvant)
+- change gender of unknown victim in column to male.
+- dataset can now be imported to SAS EM and all the nodes can be run. 
